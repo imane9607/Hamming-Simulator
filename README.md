@@ -3,9 +3,7 @@
 Bu proje, Hamming SEC-DED (Single Error Correction - Double Error Detection) kodlama algoritmasını gösteren Python tabanlı bir simülatördür. Uygulama, 8, 16 ve 32-bit veri girişlerini işleyebilen bir Grafik Kullanıcı Arayüzü (GUI) sunar. Kullanıcıların Hamming kodlarının dijital veri iletimindeki hataları nasıl algılayıp düzeltebildiğini (tek hata) veya tespit edebildiğini (çift hata) görsel ve etkileşimli bir şekilde anlamalarını amaçlar.
 ## Ekran Görüntüsü
 
-Simülatörün ana arayüzünden bir görünüm:
 
-![Simülatör Ekran Görüntüsü](image.png)
 
 ## Özellikler
 
